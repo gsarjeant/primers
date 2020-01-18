@@ -12,5 +12,5 @@ If you're new to working from the command-line, or just feel like brushing up, f
 
 ### Table of Contents
 
-1. Introduction to the Terminal
-1. Git basics
+1. [Introduction to the Terminal](./terminal/)
+1. [Git basics](./git/)
