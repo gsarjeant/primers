@@ -24,7 +24,7 @@ The first thing to do on a Mac is stop using the default terminal. I recommend r
 
 For a farily thorough and accurate description of the difference between a terminal and a shell, see [this post at the ubuntu forums](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line?answertab=votes#tab-top)
 
-For most purposes, it's accurate enough to say that a terminal (or more precisely, terminal emulator), is an application that allows you to enter input from your keyboard and see the results displayed on your display. A shell is a program that runs inside a terminal that acts as the primary interface between you and the computer when working in a terminal. The shell defines your environment and allows you to run a variety of commands. Most modern shells also provide scripting languages that allow you to automate common tasks.
+For most purposes, it's accurate enough to say that a terminal (or more precisely, terminal emulator), is an application that allows you to enter input from your keyboard and see the results display. A shell is a program that runs inside a terminal that acts as the primary interface between you and the computer when working in a terminal. The shell defines your environment and allows you to run a variety of commands. Most modern shells also provide scripting languages that allow you to automate common tasks.
 
 On OS X as of Catalina, the default shell is [zsh](http://zsh.sourceforge.net/). We'll discuss zsh in more depth later, but for now it's enough to know that when you open up a terminal in Mac OSX Catalina or later, you are working with zsh. 
 
