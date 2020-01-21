@@ -14,14 +14,14 @@ Use one set of the following commands to clone this repo and enter the directory
     git clone https://github.com/gsarjeant/primers.git
     ls primers
     ```
-    ![Clone Repo https](https://media.giphy.com/media/KFbUh0LLggmI1XChWz/giphy.gif)]
+    ![Clone Repo https](https://i.imgur.com/MCI3uvP.gif)
 1. If you are using __ssh__ with github:
     ```
     cd ~
     git clone git@github.com:gsarjeant/primers.git
     ls primers
     ```
-    ![Clone Repo ssh](https://media.giphy.com/media/JsmxM1DtMXqAkt3JD9/giphy.gif)
+    ![Clone Repo ssh](https://i.imgur.com/jnayM6M.gif)
 
 ### What is a terminal?
 
