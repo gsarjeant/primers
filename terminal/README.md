@@ -2,6 +2,27 @@
 
 This primer contains a series of exercises to help you get familiar with the terminal on your system. Please note: I am writing this on a mac, so it will be oriented to the mac terminal experience. Much of what is here will translate well to linux, but it will take me some time to go back through it on Linux to catch discrepancies. This is not intended for Windows users.
 
+### Getting Started
+
+Download this repo to the home directory on your system. Examples in the repo will assume that it it in your home directory. If you'd rather put it somewhere else, that's fine, but you'll have to modify the example commads appropriately.
+
+Use one set of the following commands to clone this repo and enter the directory containing it. Don't worry if these commands don't make sense right now. They will after you finish the [terminal](./terminal) primer. If you're not sure whether to use https or ssh below, use https.
+
+1. If you are using __https__ with github:
+    ```
+    cd ~
+    git clone https://github.com/gsarjeant/primers.git
+    ls primers
+    ```
+    ![Clone Repo https](https://i.imgur.com/MCI3uvP.gif)
+1. If you are using __ssh__ with github:
+    ```
+    cd ~
+    git clone git@github.com:gsarjeant/primers.git
+    ls primers
+    ```
+    ![Clone Repo ssh](https://i.imgur.com/jnayM6M.gif)
+
 ### What is a terminal?
 
 A terminal is a text-based interface to your computer. It allows you to enter text commands at what is known as a __command line__. These commands can be used to do all sorts of tasks, from the simple to the sophisticated.
