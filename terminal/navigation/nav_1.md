@@ -49,7 +49,7 @@ cd primers
 
 ![cd](https://i.imgur.com/OQEL5d4.gif)
 
-Mow let's use the previous two commands to print our new working directory and list the contents
+Now let's use the previous two commands to print our new working directory and list the contents
 
 ```
 pwd
@@ -58,7 +58,7 @@ ls
 
 ![pwdls](https://i.imgur.com/IHKmyyi.gif)
 
-You should see that you are in the `primers` subdirectory of your home directory, and `ls` should have shown you the contents of the repository (these will likely be different from the image, because I'll be adding to it after making the recording, but this hould give you an idea of what to expect).
+You should see that you are in the `primers` subdirectory of your home directory, and `ls` should have shown you the contents of the repository (these will likely be different from the image, because I'll be adding to it after making the recording, but this should give you an idea of what to expect).
 
 If you've done all this, you've successfully switched to a new directory and displayed its contents. Let's recap the commands we've introduced so far:
 
