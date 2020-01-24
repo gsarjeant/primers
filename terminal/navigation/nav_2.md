@@ -28,7 +28,7 @@ There's one more bit of common directory navigation shorthand. Frequently, you w
 /Users/gsarjeant/primers/
 ```
 
-What this means is that the `primers` directory is a subdirectory of the `/Users/gsarjeant/` directory. As you know by now, `/Users/gsarjeant/` s my home directory. So, I could also get back to the home directory by telling the terminal to move me to the directory that contains my current working directory, or to move one directory up in the hierarchy.
+What this means is that the `primers` directory is a subdirectory of the `/Users/gsarjeant/` directory, or that `/Users/gsarjeant` is the parent directory of the `primers` directory. As you know by now, `/Users/gsarjeant/` is my home directory. So, I could also get back to the home directory by telling the terminal to move me to the parent directory of my current working directory, or to move one directory up in the hierarchy.
 
 In the terminal, the `..` symbol refers to the directory that is one level up from where I am now. So, if I want to move up one directory in the hierarchy, I can enter `cd ..`. Let's try that now to use a different way to get back to the home directory from the `primers` directory:
 
