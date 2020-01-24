@@ -53,5 +53,5 @@ __NOTE:__ Prior to Catalina, the default OSX was [bash](https://www.gnu.org/soft
 
 ### Table of Contents
 
-1. [Navigation](navigation.md)
+1. [Navigation](navigation/nav_1.md)
 1. [Environment Variables](envvars.md)
