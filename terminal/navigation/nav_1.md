@@ -62,8 +62,10 @@ You should see that you are in the `primers` subdirectory of your home directory
 
 If you've done all this, you've successfully switched to a new directory and displayed its contents. Let's recap the commands we've introduced so far:
 
+### Recap 
+
 1. `pwd` - prints the current working directory to the screen
 1. `ls` - lists the contents of the current working directory to the screen
 1. `cd` - changes to a new directory
 
-You now know the basics of navigating your computer from the terminal. Let's extend this knowledge with some more common navigation commands.
+You now know the basics of navigating your computer from the terminal. Let's extend this knowledge with some [more common navigation commands](nav_2.md).
