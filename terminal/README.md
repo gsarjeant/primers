@@ -39,7 +39,7 @@ Perhaps the most difficult thing for people who are new to the terminal is simpl
 
 ### Replacing the default Mac terminal
 
-The first thing to do on a Mac is stop using the default terminal. I recommend replacing it with [iTerm2](https://iterm2.com/). iTerm2 is a much more fully-featured terminal emulator for Macs. It will make your terminal experience better. Go ahead and grab it and then we'll start with the first exercise: [Shells](shells.md)
+The first thing to do on a Mac is stop using the default terminal. I recommend replacing it with [iTerm2](https://iterm2.com/). iTerm2 is a much more fully-featured terminal emulator for Macs. It will make your terminal experience better. Go ahead and grab it before continuing.
 
 ### Terminals and Shells
 
